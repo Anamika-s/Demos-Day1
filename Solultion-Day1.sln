@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8BC96142-1BFA-417B-84D9-772E3978698D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loopsdemo", "Loopsdemo\Loopsdemo.csproj", "{C9412C9C-D628-4B3C-9B48-C4C60A66A272}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8BC96142-1BFA-417B-84D9-772E3978698D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC96142-1BFA-417B-84D9-772E3978698D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC96142-1BFA-417B-84D9-772E3978698D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9412C9C-D628-4B3C-9B48-C4C60A66A272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9412C9C-D628-4B3C-9B48-C4C60A66A272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9412C9C-D628-4B3C-9B48-C4C60A66A272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9412C9C-D628-4B3C-9B48-C4C60A66A272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
